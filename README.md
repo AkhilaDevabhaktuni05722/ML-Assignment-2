@@ -24,7 +24,7 @@ The dataset is a binary classification problem.
 
 **Add your GitHub repository link here after uploading the project:**
 
-`https://github.com/<your-username>/<your-repository>`
+`https://github.com/<AkhilaDevabhaktuni05722>/<ML-Assignment-2>`
 
 ## d. Models Used
 
